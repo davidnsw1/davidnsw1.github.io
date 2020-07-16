@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<div hidden itemscope itemtype="http://schema.org/Product">
+	<meta itemprop="brand" content="Macmillan Films" />
+	<meta itemprop="name" content="{{ page.title }}" />
+	<img itemprop="image" src="{{ page.image | absolute_url }}" alt="{{ page.title }} Box" />
+	<meta itemprop="description" content="{{ page.sidetxt }}" />
+	<meta itemprop="sku" content="{{ page.title | slugify }}" />
+	{% if page.asin %}<span itemprop="productID" content="asin:{ page.asin }" />{% endif %}
+	<div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+		<meta itemprop="priceCurrency" content="USD" />
+		<meta itemprop="price" content="{{ page.price }}" />
+		<div itemprop="seller" itemscope itemtype="http://schema.org/Organization">
+			<meta itemprop="name" content="Macmillan Films" />
+		</div>
+		<meta itemprop="itemCondition" centent="NewCondition" />
+		<meta itemprop="availability" content="InStock" />
+		<meta itemprop="url" content="{{ page.url | absolute_url }}" />
+	</div>
+</div>
+
+<div id="sidebar" class="sidebar-container" role="complementary">
+	<div class="sidebar-inner">
+		<div class="widget-area">
+			<aside class="widget">
+				<h3 class="widget-title">About This Program</h3>
+
+				<p>{{ page.sidetxt | markdownify }}</p>
+				<p><b>Price: {{ page.price }}</b></p>
+
+				<div style="text-align: center; margin-top: 14px;">
+					{% include paypal/paypal-button.html %}
+					{% include gum/gum-button.html %}
+				</div>
+				<script src="https://gumroad.com/js/gumroad.js"></script>
+			</aside>
+		</div><!-- .widget-area -->
+	</div><!-- .sidebar-inner -->
+</div><!-- #tertiary -->
+
+<article id="post" class="hentry">
+	<div hidden class="author vcard"><a class="fn">Macmillan Films</a></div>
+	<div hidden class="updated">{{ site.time }}</div>
+	<header class="entry-header">
+		<h1 class="entry-title">{{ page.title }}</h1>
+	</header><!-- .entry-header -->
+	<div class="entry-content">
+		{{ content }}
+	</div><!-- .entry-content -->
+</article><!-- #post -->

@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+---
+title: Home
+date: 2017-08-20 18:15:58 Z
+layout: page
+---
 
-You can use the [editor on GitHub](https://github.com/davidnsw1/home/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Macmillan Films is an independent studio that produces, adapts, and films ancient Greek plays and documentaries. Our productions are held by major Classics departments and libraries worldwide. We have the largest catalog of ancient Greek plays available for academic and personal use. Our staff also produces web videos, broadcast television, and product shots for clients through our media house subsidiary [BrandApplause](//brandapplause.com).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![Lysistrata Staging]({{ '/assets/images/content/3DLysistratawithRearSm.jpg' | absolute_url }})](https://gum.co/lysistrata-staging/)
 
-### Markdown
+# Educational Mission {#educational-mission}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+MacMillan Films is dedicated to producing thoughtful educational programing that instructs and inspires. Our mission is to produce programs that preserve Western civilization and communicate the benefits of a pluralist society. Many of our titles are Greek dramas and documentaries about philosophy and democracy. We focus on ancient Greek culture and art because so much of modern thought stems from this era.
 
-```markdown
-Syntax highlighted code block
+If you have a suggestion for programming that you think we should consider – or are looking for a content producer, please send us an [e-mail](mailto:{{ site.email }}) or **call (917) 664-0507**.
 
-# Header 1
-## Header 2
-### Header 3
+[![The Bacchae]({{ '/assets/images/content/3DBacchaewithRearSm.jpg' | absolute_url }})](https://gum.co/bacchae-staging/)
 
-- Bulleted
-- List
+# Easy Ways to Purchase DVDs {#store}
 
-1. Numbered
-2. List
+### Via Check, Credit Card or PayPal
+Please e-mail [{{ site.email }}](mailto:{{ site.email }}) and mention your preferred payment option for your DVDs. We can e-mail you a secure PayPal invoice, mail a standard invoice - or you can just mail us a check when you get your DVD.
 
-**Bold** and _Italic_ and `Code` text
+### From MacMillan Films
+Purchasing directly from this website is preferred as it allows us ship the programming immediately. This website's shopping cart allows for secure purchase via PayPal or a credit card.
 
-[Link](url) and ![Image](src)
-```
+### From Insight Media
+Our current releases, are distributed through Insight Media Inc. at 800-233-9910 (Monday - Friday 9:00-6:00 p.m. New York time).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### From Amazon.com
+Some of our titles are available on Amazon. 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/davidnsw1/home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Each program is available for $100 to use in a college or library setting. Individual (home use only) DVDs can be purchased for $40. Thank you for your support, which is vital to our ability to produce thought-driven programming. Any questions please call (917) 664-0507.
