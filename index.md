@@ -25,10 +25,10 @@ See his blog’s [about page](https://davidnsw.github.io./about/) for more detai
 
 - 下周的书。上个月才出版的浪漫爱情小说，男女主角都是作家，在海滨相遇。
 
-![](https://i.imgur.com/OU9YcfB.jpg)
+![](https://i.imgur.com/OU9YcfB.jpg){: width="100px" height="100px"}
 
-<img src=https:"https://i.imgur.com/OU9YcfB.jpg"
- width="400px" />
+![](https://i.imgur.com/OU9YcfB.jpg =200x)
+
 
 > A romance writer who no longer believes in love and a literary writer stuck in a rut engage in a summer-long challenge that may just upend everything they believe about happily ever afters.
 
