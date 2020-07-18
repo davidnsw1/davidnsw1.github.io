@@ -1,5 +1,5 @@
 ---
-title: Macmillan Films
+title: David CHEN
 timezone: America/New_York
 collections:
   posts:
@@ -19,11 +19,11 @@ defaults:
   values:
     layout: product
     price: 100
-author: Macmillan Films
+author: David CHEN
 baseurl: 
 url: https://davidnsw1.github.io
-email: james@macmillanfilms.com
-enforce_ssl: www.macmillanfilms.com
+email: drchen.gw@gmail.com
+enforce_ssl: https://davidnsw1.github.io
 description: A film studio which makes eductional movies for broadcast, institutional,
   and home use.
 image: "/assets/images/logo.svg"
