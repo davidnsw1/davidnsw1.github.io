@@ -27,6 +27,9 @@ See his blog’s [about page](https://davidnsw.github.io./about/) for more detai
 
 ![](https://i.imgur.com/OU9YcfB.jpg)
 
+<img src=https:"https://i.imgur.com/OU9YcfB.jpg"
+ width="400px" />
+
 > A romance writer who no longer believes in love and a literary writer stuck in a rut engage in a summer-long challenge that may just upend everything they believe about happily ever afters.
 
 > Augustus Everett is an acclaimed author of literary fiction. January Andrews writes bestselling romance. When she pens a happily ever after, he kills off his entire cast.
