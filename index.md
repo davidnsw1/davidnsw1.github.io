@@ -11,7 +11,7 @@ For more details, see his [technical writing blog](https://davidnsw.github.io./)
 See his blog’s [about page](https://davidnsw.github.io./about/) for more details about him.
 
 
-# 2020 Douban Reading List {#reading}
+## 2020 Douban Reading List {#reading}
 
 大家可以按自己的阅读计划读书，也可以参加每周的共读活动。每周大家一起阅读讨论同一本书，交流阅读内容，共同进步。共读书目可以提名
 
@@ -19,9 +19,9 @@ See his blog’s [about page](https://davidnsw.github.io./about/) for more detai
 
 ---
 
-## 🔍正在阅读
+### 🔍正在阅读
 
-## 第七十一次：6月8日~6月14日 【Beach Read】
+#### 第七十一次：6月8日~6月14日 【Beach Read】
 
 - 下周的书。上个月才出版的浪漫爱情小说，男女主角都是作家，在海滨相遇。
 
@@ -33,7 +33,7 @@ See his blog’s [about page](https://davidnsw.github.io./about/) for more detai
 
 > They're polar opposites. In fact, the only thing they have in common is that for the next three months, they're living in neighboring beach houses, broke, and bogged down with writer's block.
 
-## 第七十二次：6月15日~6月21日 【Invisible Women】
+#### 第七十二次：6月15日~6月21日 【Invisible Women】
 
 Invisible Women: Data Bias in a World Designed for Men，非虚构，女权相关。
 
@@ -57,7 +57,7 @@ Invisible Women: Data Bias in a World Designed for Men，非虚构，女权相�
 
 ---
 
-# 📚已经完成
+#### 📚已经完成
 
 - 第四十七次：12月23日~12月29日 【The Paper Menagerie and Other Stories】
 - 第四十八次：12月30日~2020年1月5日 【Prepared】
@@ -86,11 +86,11 @@ Invisible Women: Data Bias in a World Designed for Men，非虚构，女权相�
 
 [Media](https://www.notion.so/155ad06dd3624830a881df74d0de6928)
 
-# 2020 updated books {#news}
+## 2020 updated books {#news}
 
-## 📕新书推荐
+### 📕新书推荐
 
-### 🔥🔥第七十三次：6月22日~6月28日 【Big Little Lies】
+#### 🔥🔥第七十三次：6月22日~6月28日 【Big Little Lies】
 
 本周的书。澳大利亚小说《大小谎言》，有改编的热门剧集。
 
@@ -108,7 +108,7 @@ Invisible Women: Data Bias in a World Designed for Men，非虚构，女权相�
 莉安·莫里亚蒂
 澳洲小说天后，是首位在《纽约时报》畅销榜拔得头筹的澳洲女作家，拥有至少8本国际畅销作品，全系列作品销量总和超过1400万册。其中《他的秘密》和《大小谎言》是她的代表作。
 
-### 🔥🔥🔥第七十四次：6月29日~7月5日 【The Room Where It Happened】
+#### 🔥🔥🔥第七十四次：6月29日~7月5日 【The Room Where It Happened】
 
 非虚构，政治类，本月才出版的热门书。
 
