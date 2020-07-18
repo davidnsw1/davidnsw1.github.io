@@ -114,4 +114,6 @@ Invisible Women: Data Bias in a World Designed for Men，非虚构，女权相�
 非虚构，政治类，本月才出版的热门书。
 
 ![](https://i.imgur.com/VU1kgRE.png =200x){: width="200px" height="200px"}
+
+
 John Bolton is the former National Security Advisor to President Donald Trump. He served as the United States Ambassador to the United Nations from 2005 to 2006. He has spent many years of his career in public service and held high-level positions in the Administrations of Presidents Ronald Reagan, George H. W. Bush, and George W. Bush. Ambassador Bolton is also an attorney, and was in private practice in Washington, DC, from 1974 to 2018, except when he was in government service. Ambassador Bolton was born in Baltimore in 1948. He graduated with a BA, summa cum laude, from Yale College and received his JD from Yale Law School. He currently lives in Bethesda, Maryland.
