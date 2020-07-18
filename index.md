@@ -25,7 +25,7 @@ See his blog’s [about page](https://davidnsw.github.io./about/) for more detai
 
 - 下周的书。上个月才出版的浪漫爱情小说，男女主角都是作家，在海滨相遇。
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d5c44465-e161-4e03-8947-95908d57c949/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d5c44465-e161-4e03-8947-95908d57c949/Untitled.png)
+![](https://i.imgur.com/OU9YcfB.jpg)
 
 > A romance writer who no longer believes in love and a literary writer stuck in a rut engage in a summer-long challenge that may just upend everything they believe about happily ever afters.
 
@@ -49,7 +49,8 @@ Invisible Women: Data Bias in a World Designed for Men，非虚构，女权相�
 
 愿未来会更好 !
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1dffe421-349f-482d-8402-9a17a1a645ec/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1dffe421-349f-482d-8402-9a17a1a645ec/Untitled.png)
+![](https://i.imgur.com/fFAy993.png)
+
 
 > `Data is fundamental to the modern world. From economic development, to healthcare, to education and public policy, we rely on numbers to allocate resources and make crucial decisions. But because so much data fails to take into account gender, because it treats men as the default and women as atypical, bias and discrimination are baked into our systems. And women pay tremendous costs for this bias, in time, money, and often with their lives.`
 
@@ -84,7 +85,6 @@ Invisible Women: Data Bias in a World Designed for Men，非虚构，女权相�
 - 第六十九次：5月25日~5月31日 【Normal People】
 - 第七十次：6月1日~6月7日 【Say Nothing】
 
-[Media](https://www.notion.so/155ad06dd3624830a881df74d0de6928)
 
 ## 2020 updated books {#news}
 
@@ -94,7 +94,7 @@ Invisible Women: Data Bias in a World Designed for Men，非虚构，女权相�
 
 本周的书。澳大利亚小说《大小谎言》，有改编的热门剧集。
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/627e1c82-7ec9-4eeb-ad0c-a2558f3b3e3e/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/627e1c82-7ec9-4eeb-ad0c-a2558f3b3e3e/Untitled.png)
+![](https://i.imgur.com/X981K8y.png)
 
 > `女人的对手是女人，帮手也是。
 我们每个人都会说谎。
@@ -112,6 +112,5 @@ Invisible Women: Data Bias in a World Designed for Men，非虚构，女权相�
 
 非虚构，政治类，本月才出版的热门书。
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8fcde85a-5ce6-4cd5-9c6f-79d44aceb917/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8fcde85a-5ce6-4cd5-9c6f-79d44aceb917/Untitled.png)
-
+![](https://i.imgur.com/VU1kgRE.png)
 John Bolton is the former National Security Advisor to President Donald Trump. He served as the United States Ambassador to the United Nations from 2005 to 2006. He has spent many years of his career in public service and held high-level positions in the Administrations of Presidents Ronald Reagan, George H. W. Bush, and George W. Bush. Ambassador Bolton is also an attorney, and was in private practice in Washington, DC, from 1974 to 2018, except when he was in government service. Ambassador Bolton was born in Baltimore in 1948. He graduated with a BA, summa cum laude, from Yale College and received his JD from Yale Law School. He currently lives in Bethesda, Maryland.
